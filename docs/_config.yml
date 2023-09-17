@@ -1,5 +1,6 @@
 domain: technicallytechnickl.github.io
 url: https://technicallytechnickl.github.io
+baseurl: /docs/
 
 remote_theme: pages-themes/architect@v0.2.0
 
