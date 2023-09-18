@@ -2,7 +2,7 @@ domain: technicallytechnickl.github.io
 url: https://technicallytechnickl.github.io
 baseurl: /writing
 
-theme: minima
+theme: architect
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
