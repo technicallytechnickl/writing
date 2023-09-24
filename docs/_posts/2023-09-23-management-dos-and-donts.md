@@ -1,6 +1,7 @@
 ---
 title: The Interface Between Makers and Managers
 layout: post
+author: technickl
 ---
 ## Introduction
 I've participated in and observed many different organizations over my years working in defense and tech.  I've seen good and bad implementations at both large and small scale.  In this post I will discuss the differences in managers and makers, as well as what I think is important about the interface between them. This post is in the context of a *company* that consists of multiple *organizations*.  These organizations consist of at least one *manager* and many *makers*.  The assumed point of the *company* is to produce the *thing*.  The *thing* can be a physical item, a software product, a system that provides a service, or any other *thing*.  My hope is that by sharing my experience, more people will experience the good side of organizations than the bad side. 
