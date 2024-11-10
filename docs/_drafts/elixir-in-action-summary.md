@@ -88,4 +88,11 @@ Mix.install [:modbux]
 
 Cheat sheet: https://elixir-lang.org/downloads/cheatsheets/gen-server.pdf 
 
+## Observer
+
+	`Mix.ensure_application!(:wx)
+	Mix.ensure_application!(:runtime_tools)
+	Mix.ensure_application!(:observer)
+	:observer.start()`
+
 

@@ -31,11 +31,11 @@ Some obvious inflection points:
 -You get your first paying customer. 
 -You're required to get a certification or comply is specific regulations like SOCs, FDA 5XX, ISOXX, etc.
 
-Some less obvious:
+Some less obvious inflection points:
 -Some piece of the stack is preventing implementation of critical features
--Support starts declining for a critical piece of the stack
+-Support begins to decline for a critical piece of the stack
 -Some piece of the stack becomes a roadblock as the team grows
--An upgrade elsewhere in the stack has impacted a piece of the stack in a objective way
+-An upgrade elsewhere in the stack has impacted another piece of the stack in a objective way
 -Licensing changes 
 
 Not reasons to upgrade your stack:
@@ -43,6 +43,7 @@ Not reasons to upgrade your stack:
 -The "other guys" are doing it
 -A manager thinks you should
 -You're embarrassed to tell other professionals what tools you're using
+
 
 ## An example
 This is an example starting stack that works for an industrial scale IoT based company:
